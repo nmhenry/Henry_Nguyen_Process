@@ -33,7 +33,7 @@ Choosing the right type of project is very important when thinking of showing of
 
 Choose projects that have skills that relate to your field of focus (in this case, Power Engineering). Consider projects that show your ability to design and test power systems, the transfer of power, storing power, and different types of power converters.
 Figure 1 shows two examples of great projects and the skills that you develop while doing them. 
-![Process Figure 1](Process Figure 1.png) 
+![Process Figure 1](Projects_Skills.png) 
 ### Documenting Your Projects
 How well you document your projects matters because it shows employers the skills and techniques you have developed and can apply. If the documentation is lacking, then employers may not see your project as noteworthy.
 
