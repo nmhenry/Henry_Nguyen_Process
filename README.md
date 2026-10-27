@@ -32,7 +32,8 @@ Developing personal projects is a great way to add things to your resume and bui
 Choosing the right type of project is very important when thinking of showing off to employers. If you choose a project that doesn't display technical and problem-solving skills, then your project shows no value to  employers. On the other hand, if you choose a project that displays both of those, then it will be highly regarded and give you an edge over other applicants.
 
 Choose projects that have skills that relate to your field of focus (in this case, Power Engineering). Consider projects that show your ability to design and test power systems, the transfer of power, storing power, and different types of power converters.
-Figure 1 shows two examples of great projects and the skills that you develop while doing them.
+Figure 1 shows two examples of great projects and the skills that you develop while doing them. 
+![Process Figure 1](Process Figure 1.png) 
 ### Documenting Your Projects
 How well you document your projects matters because it shows employers the skills and techniques you have developed and can apply. If the documentation is lacking, then employers may not see your project as noteworthy.
 
