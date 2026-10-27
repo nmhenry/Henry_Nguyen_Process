@@ -29,13 +29,13 @@ Take B EE 450 Introduction to Power Electronics, which covers the basics of powe
 ## Developing Personal Projects
 Developing personal projects is a great way to add things to your resume and build skills to show off to employers.
 ### Choosing Your Projects
-Choosing the right type of project is very important when thinking of showing off to employers. If you choose a project that doesn't display technical and problem-solving skills, then your project shows no value to the employer. On the other hand, if you choose a project that displays both of those, then it will be highly regarded and give you an edge over other applicants.
+Choosing the right type of project is very important when thinking of showing off to employers. If you choose a project that doesn't display technical and problem-solving skills, then your project shows no value to  employers. On the other hand, if you choose a project that displays both of those, then it will be highly regarded and give you an edge over other applicants.
 
 Choose projects that have skills that relate to your field of focus (in this case, Power Engineering). Consider projects that show your ability to design and test power systems, the transfer of power, storing power, and different types of power converters.
 Figure 1 shows two examples of great projects and the skills that you develop while doing them.
 ### Documenting Your Projects
-How well you document your projects is important to fully show the scope and skill of the projects you have done to employers. If the documentation is lacking, then employers may not see 
+How well you document your projects matters because it shows employers the skills and techniques you have developed and can apply. If the documentation is lacking, then employers may not see your project as noteworthy.
 
-
+Take pictures of every step of the project, including the design phase, testing, and the final product. Put all of those pictures, along with an explanation and the skills used in each step, on a personal blog or website.
 ## References
 
