@@ -1,4 +1,4 @@
-# Power Engineering University Plan
+p# Power Engineering University Plan
 ## Henry Nguyen
 
 ## Table of Contents
@@ -27,7 +27,7 @@ During your senior year, there are a number of 400-level elective EE courses tha
 
 Take B EE 450 Introduction to Power Electronics, which covers the basics of power electronics, including AC-DC, DC-DC, and DC-AC power converters. Take B EE 477 Power System Fundamentals, which covers basic power system analytics, steady-state analysis, transmission lines, and transformers. After taking these courses, take B EE 478 Power System Analysis, which dives much deeper into simulating power systems, power flow, and stability.
 ## Developing Personal Projects
-Developing personal projects is a great way to add things to your resume and build skills to show off to employers.
+Developing personal projects is a great way to add experience to your resume and build skills to show off to employers.
 ### Choosing Your Projects
 Choosing the right type of project is very important when thinking of showing off to employers. If you choose a project that doesn't display technical and problem-solving skills, then your project shows no value to  employers. On the other hand, if you choose a project that displays both of those, then it will be highly regarded and give you an edge over other applicants.
 
