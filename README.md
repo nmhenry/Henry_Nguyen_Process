@@ -22,7 +22,7 @@ At UWB, there are many courses that you will be taking as an EE major. These cou
 As an EE Student, the goal of your main coursework classes is to build a good foundation in EE topics. Doing well in these courses is crucial to building a strong foundation in problem-solving and applied EE skills throughout your studies and career. By having a 3.5 or higher grade point average, you will look better as an internship applicant and as a newly graduated student to potential employers.
 
 Utilize the resources that are offered at UWB. When you are doing homework or studying for an exam, go to the Qualitative Skills Center (QSC) and ask for help if you are struggling. Even though EE is considered one of the most difficult majors, UWB has a plethora of resources to help you succeed. Also make sure to budget your time properly. Do not wait until the last minute to do assignments just to get the grade. Give yourself enough time with the material to fully absorb it and do well in exams.
-### Choosing EE Electives [^1]
+### Choosing EE Electives [^1].
 During your senior year, there are a number of 400-level elective EE courses that you can take. By choosing the courses carefully, you can add specific skills and projects that relate to being a Power Engineer. If you have taken these courses and have these skills, then you will look much more attractive when you begin your search for internships or a job in the Power Engineering field.
 
 Take B EE 450 Introduction to Power Electronics, which covers the basics of power electronics, including AC-DC, DC-DC, and DC-AC power converters. Take B EE 477 Power System Fundamentals, which covers basic power system analytics, steady-state analysis, transmission lines, and transformers. After taking these courses, take B EE 478 Power System Analysis, which dives much deeper into simulating power systems, power flow, and stability.
@@ -39,9 +39,9 @@ How well you document your projects matters because it shows employers the skill
 
 Take pictures of every step of the project, including the design phase, testing, and the final product. Put all of those pictures, along with an explanation and the skills used in each step, on a personal blog or website.
 ## References
-[^1] : University of Washington, "ELECTRICAL ENGINEERING - UW BOTHELL," [Online]. Available: https://www.washington.edu/students/crscatb/bee.html#bee477. [Accessed 26 October 2026].
+[^1]: University of Washington, "ELECTRICAL ENGINEERING - UW BOTHELL," [Online]. Available: https://www.washington.edu/students/crscatb/bee.html#bee477. [Accessed 26 October 2026].
 
-[^2] : The Grainger College of Engineering, "ECE 445 Project Ideas," [Online]. Available: https://energy.ece.illinois.edu/lab-resources/ece-445-project-ideas/. [Accessed 26 October 2026].
+[^2]: The Grainger College of Engineering, "ECE 445 Project Ideas," [Online]. Available: https://energy.ece.illinois.edu/lab-resources/ece-445-project-ideas/. [Accessed 26 October 2026].
 
-[^3] : "How to document personal projects?," Reddit, [Online]. Available: https://www.reddit.com/r/engineering/comments/4yp6aa/how_to_document_personal_projects/. [Accessed 26 October 2026].
+[^3]: "How to document personal projects?," Reddit, [Online]. Available: https://www.reddit.com/r/engineering/comments/4yp6aa/how_to_document_personal_projects/. [Accessed 26 October 2026].
 
