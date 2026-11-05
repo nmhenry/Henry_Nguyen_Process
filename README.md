@@ -9,9 +9,6 @@ p# Power Engineering University Plan
 - [Developing Personal Projects](#developing-personal-projects)
   - [Choosing Your Projects](#choosing-your-projects)
   - [Documenting Your Projects](#documenting-your-projects)
-- [Building Connections at UWB](#buliding-connections-at-uwb)
-  - [Going to Career Fairs](#going-to_career-fairs)
-  - [Connecting With UWB Staff and Resources](#connecting-with-staff-and-resources)
 - [References](#references)
 
 ## Purpose
@@ -39,10 +36,10 @@ How well you document your projects matters because it shows employers the skill
 
 Take pictures of every step of the project, including the design phase, testing, and the final product. Put all of those pictures, along with an explanation and the skills used in each step, on a personal blog or website.
 ## References
-[^1]: University of Washington, "ELECTRICAL ENGINEERING - UW BOTHELL," [Online]. Available: https://www.washington.edu/students/crscatb/bee.html#bee477. [Accessed 26 October 2026].
+[^1]: University of Washington, "ELECTRICAL ENGINEERING - UW BOTHELL," n.d., [Online]. Available: https://www.washington.edu/students/crscatb/bee.html#bee477. [Accessed 26 Oct 2026].
 
-[^2]: The Grainger College of Engineering, "ECE 445 Project Ideas," [Online]. Available: https://energy.ece.illinois.edu/lab-resources/ece-445-project-ideas/. [Accessed 26 October 2026].
+[^2]: The Grainger College of Engineering, "ECE 445 Project Ideas," n.d., [Online]. Available: https://energy.ece.illinois.edu/lab-resources/ece-445-project-ideas/. [Accessed 26 Oct 2026].
 
-[^3]: "How to document personal projects?," Reddit, [Online]. Available: https://www.reddit.com/r/engineering/comments/4yp6aa/how_to_document_personal_projects/. [Accessed 26 October 2026].
+[^3]: "How to document personal projects?," Reddit, n.d., [Online]. Available: https://www.reddit.com/r/engineering/comments/4yp6aa/how_to_document_personal_projects/. [Accessed 26 Oct 2026].
 
 Word Count: 648 words
