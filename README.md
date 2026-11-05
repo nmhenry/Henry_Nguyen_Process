@@ -1,4 +1,4 @@
-p# Power Engineering University Plan
+# Power Engineering University Plan
 ## Henry Nguyen
 
 ## Table of Contents
