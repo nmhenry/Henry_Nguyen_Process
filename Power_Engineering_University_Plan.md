@@ -51,4 +51,4 @@ Create a personal website using Google Sites to store all of your project docume
 [5] "How to create an engineering portfolio," _WashU_, n.d., [Online]. Available: https://careers.washu.edu/resources/how-to-create-an-engineering-portfolio/. [Accessed Nov. 3 2026].
 
 
-Word Count: 624
+Word Count: 631
