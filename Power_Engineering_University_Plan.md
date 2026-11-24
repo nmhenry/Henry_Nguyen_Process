@@ -1,7 +1,10 @@
 Power Engineering University Plan
+
 Prepared for: Husky student pursuing a job as a power engineer
+
 Prepared by: Henry Nguyen
-Date: Novemer 23, 2026
+
+Date: November 23, 2026
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/9cb6ec47-957a-487e-9616-2275dd78ae3d" />
 ©Image from UW Bachelor of Science in Electrical Engineering
 
