@@ -35,7 +35,7 @@ Figure 1: Hand Crank Generator Project [3]
 ### Documenting Your Projects
 How well you document your projects matters because it presents employers with the skills and techniques you have developed and can apply. As you apply to jobs, employers will ask you about your projects, and being prepared with documentation helps both you and the employer understand your engineering process. During an interview with Samuel Hong, he mentions that "regardless of what kind of project it is, they'll like it as long as you know the stuff you're talking about." [4] If the documentation is lacking, then employers may not see your project as noteworthy. On the other hand, by being detailed with your documentation, it will show employers that you know these skills and are a desirable candidate.
 
-Create a personal website using Google Sites to store all of your project documentation. Along with photos of your project, explain the purpose of your project, the design process, each iteration of your project, and what skills you learned and applied during your project. Make sure to emphasize the components that are most relevant to the employer. [5]
+Create a personal website using Google Sites to store all of your project documentation. Along with photos of your project, explain the purpose of your project, the design process, each iteration of your project, and what skills you learned and applied during your project. Make sure to emphasize the components and skills that are most relevant to power engineering. [5]
 ## References
 [1] "ELECTRICAL ENGINEERING - UW BOTHELL," _University of Washington_,  n.d., [Online]. Available: https://www.washington.edu/students/crscatb/bee.html#bee477. [Accessed Oct. 26 2026].
 
