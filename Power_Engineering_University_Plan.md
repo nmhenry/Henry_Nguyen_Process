@@ -29,7 +29,7 @@ Developing personal projects is a great way to add experience to your resume and
 ### Choosing Your Projects
 Choosing the right type of project is very important to the types of EE skills you develop. If you choose a generic electrical engineering project, you may develop skills that are unsuited for a power engineering role. When applying for power engineering internships or jobs, many of them require a background and experience with power engineering tools and concepts. By choosing a power engineering-specific project, you are able to demonstrate to employers that you know how to apply power engineering skills in a practical setting to your employer.
 
-Choose projects that develop power engineering skills you can put on your resume. Consider projects that have multiple different components and show you put them all together. Figure 1 shows a project that you should do that includes components and the skills you develop while building it. 
+Choose projects that develop power engineering skills you can put on your resume. Find projects that have multiple different components and show you put them all together. Figure 1 shows a project that you should do that includes components and the skills you develop while building it. 
 
 Figure 1: Hand Crank Generator Project [3]
 <img width="855" height="441" alt="image" src="https://github.com/user-attachments/assets/abf43042-5739-4a2b-bf46-a0b59c4eb43a" />
